@@ -1,0 +1,20 @@
+	* Variables
+         las variables son espacios donde se puede guardar informacion y puede ser :
+                *numericos 
+                  enteros 
+		  flotantes 
+		*texto 
+                  strings
+                *voliano
+                  verdad o falso  
+		  
+	* Strings
+          los strings son cadenas de texto (frases , palabras o solo una  letras )
+	* Funciones (argumentos, `return`)
+          los argumentos es la parte de una funcion de entra de datos 
+          y el return es la parte salida de una funcion
+
+	* Declaraciones `if`
+          if sirve para hacer una coparacion y decidir si ejecutara el codigo que tiene dentro 
+	* Valores booleanos (`true`, `false`)
+         `true`= verdad  `false` = falso 
