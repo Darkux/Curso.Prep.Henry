@@ -1,0 +1,10 @@
+* `for`
+   el ciclo for se copene de trs partes una declaracion entera , una validacion y un incremento.
+   y va hacer lo que tenga dentro del for hasta que se cumpla con la validacion 
+
+ * `&&`
+     fuciona para alclar dos validacion donde ambas se tenga que cumplir 
+ *`||` 
+    fuciona para alclar dos validacion donde almenos una se tenga que cumplir 
+ *`!`
+    se ultilisa ser una validacion inversa 
